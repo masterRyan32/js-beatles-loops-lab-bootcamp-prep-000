@@ -28,4 +28,16 @@ function johnLennonFacts(array){
   }
 return newArr
 }
+
+ function iLoveTheBeatles(number){
+   var newArr = []
+   
+   do{
+  newArr.push('I love the Beatles!')   
+  number++
+} while(number < 15){
+  
+     
+   }
+ }
  
