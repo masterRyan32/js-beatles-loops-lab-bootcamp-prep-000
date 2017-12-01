@@ -38,4 +38,3 @@ return newArr
 } while(number < 15);
    return newArr
  }
- 
